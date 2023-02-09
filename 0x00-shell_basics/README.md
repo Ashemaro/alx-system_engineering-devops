@@ -13,3 +13,8 @@
 12-file_type: prints file type
 13-symbolic_link: creates a symbolic link to /bin/ls named __ls__ 
 14-copy_html: copies all html files to specified directory
+100-lets_move: moves all files with an uppercase letter to the directory /tmp/u
+101-clean_emacs: deletes all files ending with ~
+102-tree: creates the directories welcome, welcome/to and welcome/to/school in the current directory
+103-commas: lists files and directories in the current directory seperated by commas
+school.mgc: detects School data files
