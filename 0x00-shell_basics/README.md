@@ -11,4 +11,5 @@
 10-back: changes the working directory to the previous one.
 11-lists: lists files in the directory, previous directory and in the /boot directory including files beginning with a.
 12-file_type: prints file type
-13-symbolic_link: creates a symbolic link to /bin/ls named _ls_ 
+13-symbolic_link: creates a symbolic link to /bin/ls named __ls__ 
+14-copy_html: copies all html files to specified directory
